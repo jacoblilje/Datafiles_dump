@@ -1,0 +1,48 @@
+_date,day,comp,round,venue,result,team,opponent,start,pos,mins,goals,assists,pk,pkatt,shots,sot,crdy,crdr,touches,tackles,_int,blocks,xg,npxg,xag,sca,gca,cmp,att,cmp_pct,prgp,carries,prgc,player_name
+2024-01-21,Sun,Premier League,Matchweek 21,Home,L 0–4,Bournemouth,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,42,3,1,0,0.0,0.0,0.0,1,0,19,31,61.3,4,19,2,Max Aarons
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,RB,69,0,0,0,0,0,0,0,0,32,0,2,0,0.0,0.0,0.0,2,0,21,24,87.5,1,13,0,Max Aarons
+2024-03-30,Sat,Premier League,Matchweek 30,Home,W 2–1,Bournemouth,Everton,Y,DM,90,0,0,0,0,0,0,0,0,67,4,4,2,0.0,0.0,0.1,1,0,39,48,81.3,3,26,3,Tyler Adams
+2024-04-02,Tue,Premier League,Matchweek 31,Home,W 1–0,Bournemouth,Crystal Palace,Y,"LM,AM",62,0,0,0,0,4,2,0,0,38,1,2,2,0.3,0.3,0.1,3,0,18,26,69.2,3,13,3,Philip Billing
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,"RM,CM",90,0,0,0,0,0,0,1,0,52,2,1,2,0.0,0.0,0.1,2,0,33,39,84.6,2,21,1,Ryan Christie
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,DM,79,0,0,0,0,0,0,0,0,47,4,0,4,0.0,0.0,0.1,4,0,30,38,78.9,5,27,1,Ryan Christie
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,DM,90,0,0,0,0,3,0,0,0,52,4,2,0,0.4,0.4,0.0,3,0,26,35,74.3,5,25,1,Ryan Christie
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,"CM,CB",90,0,0,0,0,0,0,0,0,59,1,3,5,0.0,0.0,0.0,0,0,38,45,84.4,3,32,0,Lewis Cook
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,"DM,RB",90,0,0,0,0,1,1,0,0,66,3,0,0,0.0,0.0,0.1,4,0,44,58,75.9,4,37,1,Lewis Cook
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,"DM,RB",90,0,0,0,0,1,0,0,0,48,1,3,0,0.0,0.0,0.5,3,0,35,42,83.3,4,31,2,Lewis Cook
+2024-01-21,Sun,Premier League,Matchweek 21,Home,L 0–4,Bournemouth,Liverpool,Y,LB,54,0,0,0,0,0,0,0,0,40,3,2,1,0.0,0.0,0.0,1,0,17,26,65.4,1,8,0,James Hill
+2024-04-28,Sun,Premier League,Matchweek 35,Home,W 3–0,Bournemouth,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,35,0,1,1,0.0,0.0,0.0,1,0,23,26,88.5,0,17,0,Lloyd Kelly
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,LB,90,0,0,0,0,1,0,0,0,48,0,3,2,0.0,0.0,0.0,4,1,27,40,67.5,2,19,0,Lloyd Kelly
+2024-04-24,Wed,Premier League,Matchweek 29,Away,W 1–0,Bournemouth,Wolves,Y,LB,78,0,0,0,0,2,1,0,1,25,1,0,2,0.2,0.2,0.0,1,0,10,17,58.8,2,13,4,Milos Kerkez
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,LB,90,0,0,0,0,0,0,1,0,34,1,1,0,0.0,0.0,0.2,2,0,20,27,74.1,0,18,2,Milos Kerkez
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,"LW,LM",88,0,0,0,0,3,0,0,0,28,3,1,1,0.1,0.1,0.0,4,0,12,16,75.0,2,20,2,Justin Kluivert
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,AM,66,0,0,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.1,2,0,14,18,77.8,4,14,4,Justin Kluivert
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,AM,58,0,0,0,0,2,0,0,0,16,1,0,0,0.1,0.1,0.0,1,0,7,7,100.0,0,10,0,Justin Kluivert
+2024-03-30,Sat,Premier League,Matchweek 30,Home,W 2–1,Bournemouth,Everton,Y,CB,90,0,0,0,0,0,0,0,0,55,3,0,1,0.0,0.0,0.0,1,0,30,39,76.9,0,21,0,Chris Mepham
+2024-04-21,Sun,Premier League,Matchweek 34,Away,L 1–3,Bournemouth,Aston Villa,Y*,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,0,12,0,Neto
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y*,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,15,0,Neto
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,LB,90,0,0,0,0,1,0,0,0,55,5,3,1,0.0,0.0,0.0,1,0,31,43,72.1,3,25,1,Dango Ouattara
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,LW,66,0,0,0,0,3,1,1,0,34,2,0,0,0.1,0.1,0.0,0,0,11,21,52.4,0,19,4,Dango Ouattara
+2023-11-04,Sat,Premier League,Matchweek 11,Away,L 1–6,Bournemouth,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,39,45,86.7,0,33,0,Ionuț Radu
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,LM,70,0,0,0,0,1,1,1,0,29,1,0,0,0.0,0.0,0.2,2,0,19,22,86.4,3,12,0,Alex Scott
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,"RW,RM,LM",90,0,0,0,0,1,0,0,0,33,0,0,1,0.0,0.0,0.0,1,0,14,20,70.0,1,25,4,Antoine Semenyo
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,RW,90,0,0,0,0,3,1,0,0,49,0,0,3,0.1,0.1,0.1,3,0,22,35,62.9,4,30,3,Antoine Semenyo
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,"RW,LW",90,0,0,0,0,3,1,1,0,54,2,0,2,0.2,0.2,0.2,4,0,27,36,75.0,4,34,6,Antoine Semenyo
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,CB,79,0,0,0,0,0,0,0,0,63,0,1,6,0.0,0.0,0.0,0,0,36,50,72.0,4,41,0,Marcos Senesi
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,CB,90,0,1,0,0,0,0,1,0,60,1,3,0,0.0,0.0,0.2,3,1,39,49,79.6,7,39,3,Marcos Senesi
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,CB,83,0,0,0,0,1,0,1,0,64,6,3,3,0.1,0.1,0.1,7,0,33,46,71.7,7,34,2,Marcos Senesi
+2024-04-13,Sat,Premier League,Matchweek 33,Home,D 2–2,Bournemouth,Manchester Utd,Y,LW,38,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.1,4,0,10,12,83.3,0,12,2,Luis Sinisterra
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y*,RB,88,0,0,0,0,0,0,1,0,42,2,0,1,0.0,0.0,0.0,0,0,30,34,88.2,6,22,0,Adam Smith
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y*,RB,79,0,0,0,0,0,0,0,0,37,2,0,3,0.0,0.0,0.0,0,0,23,28,82.1,0,18,1,Adam Smith
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,FW,90,0,0,0,0,1,1,0,0,26,0,0,0,0.2,0.2,0.0,1,0,11,17,64.7,1,13,0,Dominic Solanke
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,FW,90,1,0,0,0,4,1,0,0,23,0,0,1,0.3,0.3,0.0,0,0,8,12,66.7,1,8,3,Dominic Solanke
+2024-04-06,Sat,Premier League,Matchweek 32,Away,L 1–2,Bournemouth,Luton Town,Y,RW,58,1,0,0,0,3,1,0,0,31,0,0,1,0.1,0.1,0.0,2,0,13,21,61.9,2,19,1,Marcus Tavernier
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,LW,58,0,0,0,0,2,1,0,0,39,3,0,1,0.1,0.1,0.3,8,0,28,30,93.3,2,23,2,Marcus Tavernier
+2024-04-24,Wed,Premier League,Matchweek 29,Away,W 1–0,Bournemouth,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,16,30,53.3,0,21,0,Mark Travers
+2024-04-28,Sun,Premier League,Matchweek 35,Home,W 3–0,Bournemouth,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,19,0,Mark Travers
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,19,29,65.5,0,19,0,Mark Travers
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,GK,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,8,21,38.1,0,11,0,Mark Travers
+2024-04-28,Sun,Premier League,Matchweek 35,Home,W 3–0,Bournemouth,Brighton,Y,FW,66,1,1,0,0,4,2,0,0,25,1,0,0,0.6,0.6,0.6,2,1,7,10,70.0,1,13,1,Enes Ünal
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,FW,68,0,0,0,0,4,1,0,0,21,0,0,1,0.7,0.7,0.2,1,0,8,11,72.7,1,11,1,Enes Ünal
+2024-05-04,Sat,Premier League,Matchweek 36,Away,L 0–3,Bournemouth,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,66,0,0,3,0.0,0.0,0.0,0,0,54,60,90.0,2,45,2,Illia Zabarnyi
+2024-05-11,Sat,Premier League,Matchweek 37,Home,L 1–2,Bournemouth,Brentford,Y,CB,90,0,0,0,0,0,0,0,0,49,1,0,3,0.0,0.0,0.0,0,0,33,43,76.7,4,33,1,Illia Zabarnyi
+2024-05-19,Sun,Premier League,Matchweek 38,Away,L 1–2,Bournemouth,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,50,1,1,3,0.0,0.0,0.0,2,0,33,39,84.6,3,35,0,Illia Zabarnyi

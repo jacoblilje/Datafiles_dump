@@ -1,0 +1,381 @@
+_date,referee,home,away,fouls_home,fouls_away,corners_home,corners_away,tackles_home,tackles_away,offsides_home,offsides_away,goal_kicks_home,goal_kicks_away,throw_ins_home,throw_ins_away,shots_home,shots_away,sot_home,sot_away,league_season
+2022-08-05,Anthony Taylor,Crystal Palace,Arsenal,16,11,3,5,18,29,1,2,4,2,25,14,10,10,2,2,PL 22/23
+2022-08-06,Andy Madley,Fulham,Liverpool,7,9,4,4,24,11,4,4,8,5,22,35,8,11,2,3,PL 22/23
+2022-08-06,Andre Marriner,Tottenham,Southampton,11,6,10,2,24,14,2,0,6,4,20,14,18,10,8,2,PL 22/23
+2022-08-06,Simon Hooper,Newcastle Utd,Nott'ham Forest,9,14,11,1,19,15,2,0,2,12,21,26,23,5,9,0,PL 22/23
+2022-08-06,Robert Jones,Leeds United,Wolves,13,9,6,4,21,16,0,1,9,9,16,23,12,15,4,6,PL 22/23
+2022-08-06,Peter Bankes,Bournemouth,Aston Villa,18,16,5,5,20,10,1,4,12,3,14,19,7,15,3,2,PL 22/23
+2022-08-06,Craig Pawson,Everton,Chelsea,14,11,4,16,24,19,0,2,5,7,22,17,8,14,3,5,PL 22/23
+2022-08-07,Jarred Gillett,Leicester City,Brentford,6,5,5,6,13,10,2,2,3,7,20,12,14,8,5,3,PL 22/23
+2022-08-07,Paul Tierney,Manchester Utd,Brighton,7,12,6,2,12,14,3,1,11,11,22,22,17,15,5,4,PL 22/23
+2022-08-07,Michael Oliver,West Ham,Manchester City,8,4,1,4,14,6,4,1,11,5,11,12,6,13,1,1,PL 22/23
+2022-08-13,Michael Oliver,Aston Villa,Everton,9,7,5,8,15,16,2,3,1,6,20,18,12,15,3,4,PL 22/23
+2022-08-13,David Coote,Manchester City,Bournemouth,9,9,11,1,8,10,2,1,1,15,11,9,19,3,7,1,PL 22/23
+2022-08-13,Tony Harrington,Southampton,Leeds United,10,12,2,5,17,27,1,1,6,9,25,28,14,13,4,5,PL 22/23
+2022-08-13,John Brooks,Wolves,Fulham,7,14,5,3,18,19,1,0,6,7,22,24,7,8,1,2,PL 22/23
+2022-08-13,Darren England,Arsenal,Leicester City,15,9,6,2,8,12,2,3,3,12,15,16,19,6,7,2,PL 22/23
+2022-08-13,Graham Scott,Brighton,Newcastle Utd,8,6,7,3,18,12,1,4,4,9,23,22,13,4,5,1,PL 22/23
+2022-08-13,Stuart Attwell,Brentford,Manchester Utd,6,15,8,2,6,12,1,2,12,6,16,23,13,15,7,4,PL 22/23
+2022-08-14,Robert Jones,Nott'ham Forest,West Ham,10,11,6,7,16,16,3,2,10,5,17,26,13,18,6,3,PL 22/23
+2022-08-14,Anthony Taylor,Chelsea,Tottenham,9,9,8,5,28,25,2,1,5,11,26,19,16,10,3,5,PL 22/23
+2022-08-15,Paul Tierney,Liverpool,Crystal Palace,7,8,4,2,20,23,3,2,5,16,27,17,24,7,4,3,PL 22/23
+2022-08-20,Simon Hooper,Tottenham,Wolves,10,8,8,6,18,18,2,0,8,10,14,15,11,20,4,3,PL 22/23
+2022-08-20,Michael Salisbury,Leicester City,Southampton,11,15,2,5,15,19,0,1,5,6,33,20,6,9,1,3,PL 22/23
+2022-08-20,Andre Marriner,Everton,Nott'ham Forest,6,9,6,2,13,22,4,1,9,12,22,19,19,14,8,5,PL 22/23
+2022-08-20,Andy Madley,Crystal Palace,Aston Villa,16,14,4,2,14,26,1,1,6,11,24,17,16,13,8,5,PL 22/23
+2022-08-20,Peter Bankes,Fulham,Brentford,13,7,6,3,12,12,5,7,8,6,21,30,18,13,9,5,PL 22/23
+2022-08-20,Craig Pawson,Bournemouth,Arsenal,12,10,3,4,22,14,1,3,7,4,27,13,6,14,1,6,PL 22/23
+2022-08-21,Stuart Attwell,Leeds United,Chelsea,16,15,4,6,26,22,1,7,7,7,19,29,12,14,6,3,PL 22/23
+2022-08-21,Anthony Taylor,West Ham,Brighton,10,7,5,4,8,17,3,1,7,4,23,15,13,10,3,1,PL 22/23
+2022-08-21,Jarred Gillett,Newcastle Utd,Manchester City,14,7,5,5,13,9,2,1,4,5,9,18,12,21,5,10,PL 22/23
+2022-08-22,Michael Oliver,Manchester Utd,Liverpool,11,7,6,8,24,13,2,2,16,4,15,28,13,17,5,5,PL 22/23
+2022-08-27,Andy Madley,Southampton,Manchester Utd,4,14,5,3,17,14,1,1,4,13,29,20,17,11,4,4,PL 22/23
+2022-08-27,Darren England,Manchester City,Crystal Palace,14,8,6,1,12,9,2,1,2,11,18,12,18,2,5,2,PL 22/23
+2022-08-27,Michael Salisbury,Brighton,Leeds United,10,14,5,3,14,22,2,1,7,11,27,21,13,10,4,2,PL 22/23
+2022-08-27,Paul Tierney,Chelsea,Leicester City,10,7,3,11,18,17,3,1,11,2,18,17,7,17,4,5,PL 22/23
+2022-08-27,John Brooks,Brentford,Everton,8,8,8,5,14,22,0,2,7,12,25,12,20,14,5,7,PL 22/23
+2022-08-27,Stuart Attwell,Liverpool,Bournemouth,6,5,8,1,12,20,3,0,3,11,19,20,19,5,12,2,PL 22/23
+2022-08-27,Jarred Gillett,Arsenal,Fulham,6,12,9,2,15,24,1,0,10,10,17,18,22,11,8,3,PL 22/23
+2022-08-28,Peter Bankes,Wolves,Newcastle Utd,10,11,4,13,22,15,3,1,2,4,15,12,10,21,4,6,PL 22/23
+2022-08-28,David Coote,Aston Villa,West Ham,10,10,3,2,17,13,2,1,5,9,25,23,9,7,3,2,PL 22/23
+2022-08-28,Craig Pawson,Nott'ham Forest,Tottenham,11,13,6,1,21,12,1,3,9,10,17,19,17,17,1,5,PL 22/23
+2022-08-30,Thomas Bramall,Fulham,Brighton,9,11,3,3,26,23,0,2,8,11,23,26,10,6,3,2,PL 22/23
+2022-08-30,Simon Hooper,Crystal Palace,Brentford,11,8,4,6,21,14,1,0,8,10,18,20,13,9,4,3,PL 22/23
+2022-08-30,Michael Oliver,Southampton,Chelsea,15,10,5,3,19,26,0,3,4,1,28,31,9,10,5,4,PL 22/23
+2022-08-30,Darren England,Leeds United,Everton,10,9,10,2,25,28,2,2,2,11,38,22,14,7,5,2,PL 22/23
+2022-08-31,Anthony Taylor,Bournemouth,Wolves,12,12,2,5,24,26,0,3,12,1,21,16,5,17,2,3,PL 22/23
+2022-08-31,Paul Tierney,Manchester City,Nott'ham Forest,9,7,10,1,13,14,2,2,4,9,16,12,17,8,9,1,PL 22/23
+2022-08-31,Robert Jones,Arsenal,Aston Villa,10,14,10,2,10,16,1,1,5,13,15,13,22,4,8,3,PL 22/23
+2022-08-31,Peter Bankes,West Ham,Tottenham,10,10,3,4,13,7,1,0,5,11,16,19,14,12,4,3,PL 22/23
+2022-08-31,Andre Marriner,Liverpool,Newcastle Utd,9,10,13,0,7,23,2,2,6,9,24,11,23,5,6,2,PL 22/23
+2022-09-01,Craig Pawson,Leicester City,Manchester Utd,7,15,1,3,21,15,0,2,4,8,18,24,10,9,2,2,PL 22/23
+2022-09-03,Anthony Taylor,Everton,Liverpool,7,11,7,9,19,15,3,2,11,8,23,34,14,23,3,8,PL 22/23
+2022-09-03,Michael Oliver,Nott'ham Forest,Bournemouth,13,10,4,6,13,12,1,1,6,6,20,29,10,8,2,3,PL 22/23
+2022-09-03,John Brooks,Wolves,Southampton,10,14,5,6,14,20,1,0,11,7,16,16,7,12,2,1,PL 22/23
+2022-09-03,Michael Salisbury,Newcastle Utd,Crystal Palace,19,12,13,5,18,23,2,1,5,11,17,18,23,19,5,9,PL 22/23
+2022-09-03,Robert Jones,Brentford,Leeds United,8,9,2,6,24,24,1,1,9,8,20,25,13,17,7,6,PL 22/23
+2022-09-03,Stuart Attwell,Tottenham,Fulham,9,6,10,3,19,18,3,0,7,5,18,26,23,9,10,3,PL 22/23
+2022-09-03,Andy Madley,Chelsea,West Ham,6,11,10,3,16,14,1,1,2,12,17,21,8,6,3,3,PL 22/23
+2022-09-03,Simon Hooper,Aston Villa,Manchester City,7,6,1,4,15,13,5,3,10,3,18,19,3,13,1,4,PL 22/23
+2022-09-04,Tony Harrington,Brighton,Leicester City,6,8,10,1,17,13,2,3,5,10,15,19,22,6,10,4,PL 22/23
+2022-09-04,Paul Tierney,Manchester Utd,Arsenal,13,9,2,5,17,14,4,0,11,3,17,20,10,16,6,3,PL 22/23
+2022-09-16,Tony Harrington,Aston Villa,Southampton,13,13,6,3,35,28,1,0,8,7,28,25,11,7,3,1,PL 22/23
+2022-09-16,Jarred Gillett,Nott'ham Forest,Fulham,11,10,2,10,10,12,2,1,6,7,19,14,11,15,3,7,PL 22/23
+2022-09-17,Anthony Taylor,Wolves,Manchester City,7,9,5,7,19,19,0,1,7,6,17,16,6,16,1,7,PL 22/23
+2022-09-17,Craig Pawson,Newcastle Utd,Bournemouth,10,11,8,1,16,18,3,1,6,11,27,15,19,10,6,3,PL 22/23
+2022-09-17,Simon Hooper,Tottenham,Leicester City,9,9,6,1,14,16,1,0,8,2,19,10,16,18,11,6,PL 22/23
+2022-09-18,David Coote,Brentford,Arsenal,10,10,3,3,21,12,3,1,4,6,19,18,5,13,2,7,PL 22/23
+2022-09-18,Michael Oliver,Everton,West Ham,8,11,5,14,18,18,1,1,8,10,20,24,7,14,2,4,PL 22/23
+2022-10-01,Anthony Taylor,Arsenal,Tottenham,10,10,5,2,14,16,1,3,3,12,18,17,22,6,9,2,PL 22/23
+2022-10-01,Andre Marriner,Southampton,Everton,11,10,7,6,22,23,0,1,7,11,30,15,22,12,6,5,PL 22/23
+2022-10-01,Chris Kavanagh,Crystal Palace,Chelsea,11,13,5,2,18,16,1,0,10,6,15,27,7,13,3,3,PL 22/23
+2022-10-01,Andy Madley,Liverpool,Brighton,9,13,9,2,14,23,1,0,1,11,26,16,15,6,7,6,PL 22/23
+2022-10-01,Darren England,Fulham,Newcastle Utd,9,10,1,8,13,15,4,7,10,2,17,13,3,19,1,10,PL 22/23
+2022-10-01,Thomas Bramall,Bournemouth,Brentford,11,10,7,8,14,20,1,2,11,8,10,19,7,13,0,4,PL 22/23
+2022-10-01,Paul Tierney,West Ham,Wolves,8,6,1,6,22,12,2,1,15,6,11,22,18,15,5,4,PL 22/23
+2022-10-02,Michael Oliver,Manchester City,Manchester Utd,3,9,5,1,14,14,1,0,8,8,11,19,22,11,9,7,PL 22/23
+2022-10-02,Stuart Attwell,Leeds United,Aston Villa,23,12,2,9,12,16,0,2,8,4,20,15,6,19,1,6,PL 22/23
+2022-10-03,Robert Jones,Leicester City,Nott'ham Forest,13,12,6,6,11,13,3,4,6,8,13,18,17,10,7,3,PL 22/23
+2022-10-08,Michael Salisbury,Bournemouth,Leicester City,8,16,7,2,13,32,3,0,3,5,26,15,10,9,4,5,PL 22/23
+2022-10-08,John Brooks,Newcastle Utd,Brentford,14,9,9,5,15,10,1,3,5,7,18,14,16,5,6,2,PL 22/23
+2022-10-08,Andy Madley,Manchester City,Southampton,4,8,9,1,15,19,1,1,4,12,12,10,21,5,8,0,PL 22/23
+2022-10-08,Simon Hooper,Chelsea,Wolves,8,8,4,2,26,13,3,0,6,15,20,23,20,8,7,2,PL 22/23
+2022-10-08,Tony Harrington,Brighton,Tottenham,9,14,6,2,17,15,2,3,13,7,19,14,14,8,4,3,PL 22/23
+2022-10-09,Chris Kavanagh,West Ham,Fulham,9,7,4,2,13,16,1,2,6,7,16,18,16,8,7,2,PL 22/23
+2022-10-09,Paul Tierney,Crystal Palace,Leeds United,13,23,5,3,18,29,2,2,8,9,29,32,13,10,5,4,PL 22/23
+2022-10-09,Michael Oliver,Arsenal,Liverpool,11,11,4,3,16,15,3,6,4,3,14,29,10,8,6,3,PL 22/23
+2022-10-09,David Coote,Everton,Manchester Utd,7,13,5,4,9,15,1,4,9,13,13,20,11,12,2,4,PL 22/23
+2022-10-10,Anthony Taylor,Nott'ham Forest,Aston Villa,13,19,1,4,14,21,0,3,7,3,23,22,6,12,3,2,PL 22/23
+2022-10-14,Michael Salisbury,Brentford,Brighton,12,15,2,11,12,25,0,3,8,6,13,20,6,21,1,7,PL 22/23
+2022-10-15,Andy Madley,Leicester City,Crystal Palace,18,13,9,2,25,13,2,1,6,7,25,14,14,8,5,1,PL 22/23
+2022-10-15,Graham Scott,Fulham,Bournemouth,9,11,5,6,12,14,1,0,6,9,20,15,18,10,3,6,PL 22/23
+2022-10-15,Thomas Bramall,Wolves,Nott'ham Forest,17,13,4,5,17,16,2,1,10,8,19,19,8,9,1,1,PL 22/23
+2022-10-15,Paul Tierney,Tottenham,Everton,12,13,7,1,8,15,0,0,6,7,21,9,20,4,6,0,PL 22/23
+2022-10-16,Peter Bankes,Southampton,West Ham,7,3,4,14,14,22,1,0,13,3,18,20,10,25,8,4,PL 22/23
+2022-10-16,Robert Jones,Aston Villa,Chelsea,12,11,7,1,24,9,3,1,2,11,24,20,18,8,7,4,PL 22/23
+2022-10-16,Chris Kavanagh,Leeds United,Arsenal,10,11,6,3,25,17,4,0,5,8,19,21,15,9,4,4,PL 22/23
+2022-10-16,Craig Pawson,Manchester Utd,Newcastle Utd,13,11,4,4,18,13,2,0,8,11,14,14,15,9,2,2,PL 22/23
+2022-10-16,Anthony Taylor,Liverpool,Manchester City,10,7,5,6,23,20,3,0,7,10,14,19,13,16,2,6,PL 22/23
+2022-10-18,Darren England,Brighton,Nott'ham Forest,10,14,9,1,11,13,1,0,6,13,28,20,19,3,7,0,PL 22/23
+2022-10-18,David Coote,Crystal Palace,Wolves,14,18,4,2,23,29,0,4,4,9,23,16,14,10,4,4,PL 22/23
+2022-10-19,John Brooks,Bournemouth,Southampton,8,13,7,3,13,23,2,0,3,12,24,19,15,9,3,3,PL 22/23
+2022-10-19,Jarred Gillett,Brentford,Chelsea,7,7,6,2,19,17,2,0,6,8,19,21,8,14,5,5,PL 22/23
+2022-10-19,Stuart Attwell,Liverpool,West Ham,9,8,8,3,13,15,1,0,6,9,21,21,22,7,7,2,PL 22/23
+2022-10-19,Tony Harrington,Newcastle Utd,Everton,9,12,8,2,18,18,0,3,2,12,21,30,16,1,4,0,PL 22/23
+2022-10-19,Simon Hooper,Manchester Utd,Tottenham,7,7,8,3,17,12,4,0,6,11,16,17,28,9,10,2,PL 22/23
+2022-10-20,Michael Oliver,Fulham,Aston Villa,11,11,9,7,12,14,0,3,4,9,23,17,17,12,6,6,PL 22/23
+2022-10-20,Peter Bankes,Leicester City,Leeds United,15,11,2,9,26,30,4,2,8,7,17,29,5,14,1,2,PL 22/23
+2022-10-22,Paul Tierney,Nott'ham Forest,Liverpool,14,8,2,11,19,14,3,0,11,1,13,30,10,15,7,7,PL 22/23
+2022-10-22,Simon Hooper,Everton,Crystal Palace,16,14,3,4,26,20,1,2,7,7,28,23,9,9,6,2,PL 22/23
+2022-10-22,Craig Pawson,Manchester City,Brighton,11,12,6,3,14,16,0,4,9,9,9,22,9,8,3,2,PL 22/23
+2022-10-22,Stuart Attwell,Chelsea,Manchester Utd,8,10,6,4,10,18,2,3,11,8,20,25,5,13,1,6,PL 22/23
+2022-10-23,Darren England,Aston Villa,Brentford,14,11,7,6,20,20,0,1,8,3,20,32,18,12,10,3,PL 22/23
+2022-10-23,Michael Oliver,Wolves,Leicester City,10,12,9,2,11,23,3,3,4,12,18,20,21,5,5,4,PL 22/23
+2022-10-23,Anthony Taylor,Leeds United,Fulham,12,8,3,6,22,16,4,4,4,9,25,23,14,11,5,4,PL 22/23
+2022-10-23,Robert Jones,Southampton,Arsenal,11,8,9,4,21,16,4,3,7,2,17,21,10,12,3,3,PL 22/23
+2022-10-23,Jarred Gillett,Tottenham,Newcastle Utd,12,6,6,7,17,15,3,4,6,9,28,19,17,13,4,5,PL 22/23
+2022-10-24,David Coote,West Ham,Bournemouth,9,11,5,0,22,21,1,0,5,10,26,19,19,5,3,3,PL 22/23
+2022-10-29,Robert Jones,Leicester City,Manchester City,5,10,3,10,12,7,0,2,14,6,11,13,10,15,5,5,PL 22/23
+2022-10-29,Robert Madley,Brentford,Wolves,10,17,3,6,17,17,0,1,9,7,23,16,12,13,3,4,PL 22/23
+2022-10-29,Michael Salisbury,Crystal Palace,Southampton,13,12,8,4,23,20,5,3,8,7,12,21,12,14,3,4,PL 22/23
+2022-10-29,Paul Tierney,Newcastle Utd,Aston Villa,11,11,3,0,15,19,2,3,1,9,25,21,19,3,6,0,PL 22/23
+2022-10-29,Andy Madley,Brighton,Chelsea,16,6,8,7,18,8,0,0,9,9,14,23,19,15,7,7,PL 22/23
+2022-10-29,Anthony Taylor,Bournemouth,Tottenham,10,5,2,19,18,16,0,3,11,6,13,13,6,23,4,7,PL 22/23
+2022-10-29,John Brooks,Fulham,Everton,10,8,13,4,12,15,0,5,6,12,24,20,24,9,6,4,PL 22/23
+2022-10-29,Michael Oliver,Liverpool,Leeds United,9,3,14,4,17,21,0,0,5,10,21,33,22,14,10,6,PL 22/23
+2022-10-30,Simon Hooper,Arsenal,Nott'ham Forest,9,8,9,4,14,25,1,2,4,11,18,14,24,5,9,2,PL 22/23
+2022-10-30,Chris Kavanagh,Manchester Utd,West Ham,12,10,5,10,18,13,1,2,8,6,12,19,16,13,3,4,PL 22/23
+2022-11-05,Andre Marriner,Nott'ham Forest,Brentford,10,11,3,3,18,12,0,2,7,12,30,23,15,5,6,1,PL 22/23
+2022-11-05,Tony Harrington,Leeds United,Bournemouth,16,10,13,3,26,15,0,0,2,9,23,21,17,9,3,5,PL 22/23
+2022-11-05,Darren England,Manchester City,Fulham,6,11,9,0,16,15,3,0,2,8,20,11,15,3,4,1,PL 22/23
+2022-11-05,Graham Scott,Wolves,Brighton,15,11,4,9,18,14,1,1,8,2,9,16,7,19,4,8,PL 22/23
+2022-11-05,David Coote,Everton,Leicester City,9,5,8,3,14,13,0,1,12,6,21,18,12,22,2,8,PL 22/23
+2022-11-06,Michael Oliver,Chelsea,Arsenal,19,13,4,6,24,17,3,0,15,5,17,16,5,14,1,2,PL 22/23
+2022-11-06,Paul Tierney,West Ham,Crystal Palace,10,7,2,5,16,13,4,0,7,4,13,17,5,15,2,6,PL 22/23
+2022-11-06,Stuart Attwell,Southampton,Newcastle Utd,7,10,8,2,21,15,4,1,4,7,19,17,16,7,5,4,PL 22/23
+2022-11-06,Anthony Taylor,Aston Villa,Manchester Utd,6,12,3,5,16,15,0,3,5,8,15,22,6,8,4,3,PL 22/23
+2022-11-06,Andy Madley,Tottenham,Liverpool,10,8,5,3,15,14,1,2,6,10,20,14,14,13,5,6,PL 22/23
+2022-11-12,Peter Bankes,Manchester City,Brentford,9,7,10,2,9,11,2,2,4,16,16,7,29,10,6,7,PL 22/23
+2022-11-12,Michael Salisbury,Tottenham,Leeds United,8,7,9,2,12,19,0,1,5,7,28,20,14,12,7,5,PL 22/23
+2022-11-12,Simon Hooper,Liverpool,Southampton,8,8,6,0,12,16,0,2,9,11,21,17,15,9,7,5,PL 22/23
+2022-11-12,Craig Pawson,Bournemouth,Everton,12,8,3,5,15,30,1,1,15,7,13,15,16,15,8,3,PL 22/23
+2022-11-12,Jarred Gillett,West Ham,Leicester City,9,8,7,2,18,19,2,0,3,12,29,25,18,8,6,5,PL 22/23
+2022-11-12,John Brooks,Nott'ham Forest,Crystal Palace,11,13,1,5,21,11,3,0,7,10,21,23,9,7,2,0,PL 22/23
+2022-11-12,Robert Jones,Newcastle Utd,Chelsea,14,11,5,3,23,23,3,0,7,6,23,20,10,5,3,2,PL 22/23
+2022-11-12,Stuart Attwell,Wolves,Arsenal,5,6,6,4,17,10,3,1,8,6,18,12,11,14,2,3,PL 22/23
+2022-11-13,Chris Kavanagh,Brighton,Aston Villa,14,11,11,4,14,23,3,1,4,8,27,20,7,7,2,1,PL 22/23
+2022-11-13,Paul Tierney,Fulham,Manchester Utd,9,10,10,3,18,12,1,2,5,7,20,15,14,14,7,9,PL 22/23
+2022-12-26,David Coote,Brentford,Tottenham,11,10,6,5,16,18,1,5,3,5,16,24,9,15,4,8,PL 22/23
+2022-12-26,Robert Jones,Southampton,Brighton,9,10,4,2,16,21,0,1,4,5,23,21,13,7,3,4,PL 22/23
+2022-12-26,Jarred Gillett,Leicester City,Newcastle Utd,9,6,5,5,24,12,3,1,7,6,23,21,8,11,2,4,PL 22/23
+2022-12-26,Andy Madley,Crystal Palace,Fulham,12,15,1,7,15,16,1,2,5,4,11,19,4,23,0,10,PL 22/23
+2022-12-26,Craig Pawson,Everton,Wolves,9,22,2,2,17,19,1,2,5,6,20,28,12,7,5,4,PL 22/23
+2022-12-26,Paul Tierney,Aston Villa,Liverpool,7,12,0,6,12,19,3,3,12,3,14,15,12,16,6,9,PL 22/23
+2022-12-26,Michael Oliver,Arsenal,West Ham,13,17,7,5,15,14,3,0,5,7,10,15,16,7,5,3,PL 22/23
+2022-12-27,Simon Hooper,Chelsea,Bournemouth,8,10,6,8,17,17,3,0,6,9,11,14,15,9,5,4,PL 22/23
+2022-12-27,Anthony Taylor,Manchester Utd,Nott'ham Forest,13,4,9,9,18,17,1,2,5,7,15,23,17,8,8,3,PL 22/23
+2022-12-28,Stuart Attwell,Leeds United,Manchester City,11,14,3,5,13,13,0,1,9,6,17,24,9,26,1,9,PL 22/23
+2022-12-30,Darren England,West Ham,Brentford,9,5,8,1,12,16,0,0,6,16,27,14,20,9,5,6,PL 22/23
+2022-12-30,Craig Pawson,Liverpool,Leicester City,8,15,4,5,18,14,2,5,6,12,19,14,21,7,5,2,PL 22/23
+2022-12-31,Robert Jones,Wolves,Manchester Utd,11,11,7,5,16,17,1,2,6,2,18,18,10,16,3,6,PL 22/23
+2022-12-31,Simon Hooper,Newcastle Utd,Leeds United,13,19,9,3,16,32,3,0,4,13,34,16,16,8,5,1,PL 22/23
+2022-12-31,Graham Scott,Fulham,Southampton,8,13,4,4,19,21,1,0,6,7,30,30,7,9,1,3,PL 22/23
+2022-12-31,Andy Madley,Manchester City,Everton,13,14,7,1,13,13,3,2,0,5,27,11,16,2,3,1,PL 22/23
+2022-12-31,Andre Marriner,Bournemouth,Crystal Palace,17,11,2,7,17,30,1,1,6,5,41,29,6,15,2,6,PL 22/23
+2022-12-31,Anthony Taylor,Brighton,Arsenal,7,11,7,4,8,19,5,0,5,8,26,13,9,14,5,7,PL 22/23
+2023-01-01,John Brooks,Tottenham,Aston Villa,15,10,5,3,14,18,1,0,4,7,21,21,6,13,1,4,PL 22/23
+2023-01-01,Peter Bankes,Nott'ham Forest,Chelsea,16,14,1,2,18,16,2,2,4,6,21,20,12,7,5,2,PL 22/23
+2023-01-02,Stuart Attwell,Brentford,Liverpool,5,8,4,9,17,9,7,4,4,4,14,28,10,16,7,5,PL 22/23
+2023-01-03,Darren Bond,Leicester City,Fulham,12,11,6,3,17,13,0,1,9,9,25,27,15,11,6,2,PL 22/23
+2023-01-03,Andre Marriner,Everton,Brighton,8,10,5,2,16,15,1,0,9,8,16,20,9,19,3,8,PL 22/23
+2023-01-03,Andy Madley,Arsenal,Newcastle Utd,10,16,5,5,13,23,1,4,6,12,13,11,17,8,4,1,PL 22/23
+2023-01-03,Michael Salisbury,Manchester Utd,Bournemouth,13,7,6,5,9,18,0,2,3,8,14,10,18,7,6,4,PL 22/23
+2023-01-04,Thomas Bramall,Southampton,Nott'ham Forest,14,17,6,2,14,22,1,0,6,11,29,15,8,11,0,1,PL 22/23
+2023-01-04,David Coote,Leeds United,West Ham,11,18,8,1,19,19,3,3,14,13,24,25,14,14,5,1,PL 22/23
+2023-01-04,Jarred Gillett,Aston Villa,Wolves,6,12,7,8,11,29,1,4,6,9,19,14,13,10,3,3,PL 22/23
+2023-01-04,Michael Oliver,Crystal Palace,Tottenham,11,8,10,4,22,22,1,2,6,11,13,15,19,14,4,6,PL 22/23
+2023-01-05,Paul Tierney,Chelsea,Manchester City,9,9,3,2,28,19,2,1,7,6,16,17,8,12,2,3,PL 22/23
+2023-01-12,David Coote,Fulham,Chelsea,12,16,5,7,11,18,3,3,8,2,33,13,8,20,3,10,PL 22/23
+2023-01-13,Michael Oliver,Aston Villa,Leeds United,12,18,0,11,28,27,2,5,6,5,27,38,11,16,5,3,PL 22/23
+2023-01-14,Stuart Attwell,Manchester Utd,Manchester City,15,5,1,2,15,6,6,2,2,4,14,13,8,5,3,1,PL 22/23
+2023-01-14,John Brooks,Everton,Southampton,7,18,6,4,10,18,3,2,10,10,18,16,12,13,4,5,PL 22/23
+2023-01-14,Simon Hooper,Wolves,West Ham,10,7,4,3,15,11,4,1,7,4,20,22,17,16,4,3,PL 22/23
+2023-01-14,Paul Tierney,Nott'ham Forest,Leicester City,11,12,3,5,14,12,2,1,5,9,15,26,15,6,5,1,PL 22/23
+2023-01-14,Darren England,Brighton,Liverpool,9,15,7,1,16,19,4,2,4,4,20,12,16,6,8,2,PL 22/23
+2023-01-14,Jarred Gillett,Brentford,Bournemouth,5,9,5,3,20,19,2,1,5,9,25,21,11,7,3,2,PL 22/23
+2023-01-15,Peter Bankes,Chelsea,Crystal Palace,10,17,11,7,33,24,3,1,7,7,14,28,15,10,5,5,PL 22/23
+2023-01-15,Robert Jones,Newcastle Utd,Fulham,6,14,10,5,18,17,2,3,4,11,22,19,20,4,5,0,PL 22/23
+2023-01-15,Craig Pawson,Tottenham,Arsenal,16,15,4,3,17,13,1,2,4,3,28,19,17,14,7,5,PL 22/23
+2023-01-18,Robert Jones,Crystal Palace,Manchester Utd,9,10,3,3,24,32,0,0,9,3,21,18,10,15,5,4,PL 22/23
+2023-01-19,Simon Hooper,Manchester City,Tottenham,10,14,8,3,15,16,0,1,4,8,22,16,16,9,6,3,PL 22/23
+2023-01-21,Michael Oliver,Liverpool,Chelsea,16,9,5,5,18,21,5,1,11,9,22,20,15,11,3,2,PL 22/23
+2023-01-21,Andy Madley,Bournemouth,Nott'ham Forest,10,7,4,6,11,21,2,2,11,8,19,18,16,20,3,5,PL 22/23
+2023-01-21,Michael Salisbury,Southampton,Aston Villa,19,9,2,2,25,19,3,0,10,2,16,21,8,16,5,5,PL 22/23
+2023-01-21,Thomas Bramall,Leicester City,Brighton,9,9,5,6,16,11,0,2,10,1,20,22,9,13,2,4,PL 22/23
+2023-01-21,Stuart Attwell,West Ham,Everton,9,6,4,9,17,19,1,2,4,5,15,12,11,5,4,2,PL 22/23
+2023-01-21,Craig Pawson,Crystal Palace,Newcastle Utd,13,7,3,15,29,19,0,1,10,5,23,16,6,16,1,7,PL 22/23
+2023-01-22,David Coote,Manchester City,Wolves,10,10,5,7,8,15,1,0,3,11,12,13,12,10,5,1,PL 22/23
+2023-01-22,Peter Bankes,Leeds United,Brentford,10,18,2,3,17,14,1,1,9,6,25,23,9,6,5,0,PL 22/23
+2023-01-22,Anthony Taylor,Arsenal,Manchester Utd,8,9,12,4,21,21,1,4,2,6,11,17,25,6,5,4,PL 22/23
+2023-01-23,Paul Tierney,Fulham,Tottenham,10,10,3,8,19,23,2,0,7,6,32,16,10,10,5,3,PL 22/23
+2023-02-03,Stuart Attwell,Chelsea,Fulham,16,12,6,2,24,19,3,0,6,9,20,20,12,10,2,4,PL 22/23
+2023-02-04,David Coote,Everton,Arsenal,13,8,7,5,18,14,3,0,14,7,17,23,12,15,4,2,PL 22/23
+2023-02-04,Darren England,Aston Villa,Leicester City,10,10,11,3,9,23,2,8,5,8,13,18,19,9,4,5,PL 22/23
+2023-02-04,Paul Tierney,Wolves,Liverpool,9,7,2,7,16,10,1,2,10,4,14,33,12,22,5,2,PL 22/23
+2023-02-04,Andre Marriner,Manchester Utd,Crystal Palace,9,9,5,5,21,16,1,4,4,6,20,27,13,10,4,3,PL 22/23
+2023-02-04,Craig Pawson,Brighton,Bournemouth,14,7,7,3,17,20,0,1,11,9,15,19,20,12,6,2,PL 22/23
+2023-02-04,Darren Bond,Brentford,Southampton,10,9,4,4,13,15,1,2,7,10,21,16,14,14,3,5,PL 22/23
+2023-02-04,Peter Bankes,Newcastle Utd,West Ham,11,13,4,2,13,19,0,2,7,8,19,18,8,10,2,1,PL 22/23
+2023-02-05,Robert Jones,Nott'ham Forest,Leeds United,15,14,0,2,26,19,2,3,12,3,20,38,6,10,2,4,PL 22/23
+2023-02-05,Andy Madley,Tottenham,Manchester City,19,14,4,6,14,19,2,1,11,6,10,11,12,15,3,5,PL 22/23
+2023-02-08,Simon Hooper,Manchester Utd,Leeds United,7,11,6,5,19,30,1,0,4,15,34,13,24,8,6,2,PL 22/23
+2023-02-11,Craig Pawson,West Ham,Chelsea,9,11,5,6,23,21,3,4,6,6,19,15,10,12,2,4,PL 22/23
+2023-02-11,Michael Salisbury,Leicester City,Tottenham,14,9,1,5,27,10,2,2,5,5,22,14,15,11,6,4,PL 22/23
+2023-02-11,Michael Oliver,Crystal Palace,Brighton,10,11,1,6,19,23,3,2,8,4,15,17,6,17,1,7,PL 22/23
+2023-02-11,Peter Bankes,Arsenal,Brentford,9,9,7,4,10,12,1,1,8,11,17,12,23,9,7,2,PL 22/23
+2023-02-11,Jarred Gillett,Southampton,Wolves,12,14,5,2,16,21,0,3,4,9,24,23,17,11,2,1,PL 22/23
+2023-02-11,Andy Madley,Fulham,Nott'ham Forest,9,11,5,4,10,10,1,3,8,12,20,24,16,10,3,1,PL 22/23
+2023-02-11,Stuart Attwell,Bournemouth,Newcastle Utd,8,10,4,6,20,15,2,5,7,8,22,20,11,15,4,7,PL 22/23
+2023-02-12,Paul Tierney,Leeds United,Manchester Utd,10,13,7,3,23,30,3,3,4,11,20,19,16,11,6,5,PL 22/23
+2023-02-12,Robert Jones,Manchester City,Aston Villa,13,14,8,4,7,7,1,4,2,8,13,11,16,6,7,2,PL 22/23
+2023-02-13,Simon Hooper,Liverpool,Everton,8,16,3,3,21,18,4,2,4,8,25,18,15,6,6,1,PL 22/23
+2023-02-15,Anthony Taylor,Arsenal,Manchester City,11,15,1,2,13,17,0,3,3,10,21,18,9,9,0,5,PL 22/23
+2023-02-18,Simon Hooper,Aston Villa,Arsenal,13,4,2,9,25,18,0,2,12,2,12,36,7,20,5,5,PL 22/23
+2023-02-18,Darren England,Brighton,Fulham,12,14,10,2,10,13,4,0,3,12,13,9,21,5,7,2,PL 22/23
+2023-02-18,Graham Scott,Nott'ham Forest,Manchester City,8,6,0,10,13,10,2,0,15,4,9,27,4,23,1,6,PL 22/23
+2023-02-18,David Coote,Chelsea,Southampton,16,25,8,2,17,31,3,1,6,9,30,16,17,8,4,4,PL 22/23
+2023-02-18,Andy Madley,Everton,Leeds United,8,6,6,4,23,24,1,0,9,13,32,22,15,8,4,0,PL 22/23
+2023-02-18,Michael Salisbury,Wolves,Bournemouth,12,10,12,2,16,9,2,0,3,9,18,22,15,5,4,1,PL 22/23
+2023-02-18,Paul Tierney,Brentford,Crystal Palace,10,8,2,6,12,15,3,2,2,11,33,11,12,10,5,4,PL 22/23
+2023-02-18,Anthony Taylor,Newcastle Utd,Liverpool,3,8,6,7,10,14,3,0,6,8,15,15,14,13,4,7,PL 22/23
+2023-02-19,Stuart Attwell,Manchester Utd,Leicester City,9,9,6,6,23,26,0,1,7,10,17,15,26,19,8,3,PL 22/23
+2023-02-19,Michael Oliver,Tottenham,West Ham,16,10,4,7,19,18,0,0,6,11,14,18,16,6,6,1,PL 22/23
+2023-02-24,Michael Oliver,Fulham,Wolves,12,17,3,3,20,19,1,1,10,8,34,22,10,8,5,2,PL 22/23
+2023-02-25,Craig Pawson,Leicester City,Arsenal,14,9,0,8,12,11,4,4,9,5,20,17,1,10,0,2,PL 22/23
+2023-02-25,Anthony Taylor,Everton,Aston Villa,12,12,5,1,20,16,1,0,8,8,23,22,15,8,4,4,PL 22/23
+2023-02-25,Jarred Gillett,West Ham,Nott'ham Forest,8,5,12,3,13,15,1,1,8,6,15,20,18,8,5,3,PL 22/23
+2023-02-25,Peter Bankes,Leeds United,Southampton,15,13,9,2,23,27,2,3,3,7,25,15,14,8,4,2,PL 22/23
+2023-02-25,Paul Tierney,Bournemouth,Manchester City,10,9,4,6,15,26,1,2,7,7,15,11,13,20,2,5,PL 22/23
+2023-02-25,Darren England,Crystal Palace,Liverpool,11,14,5,3,16,14,4,1,5,10,23,24,6,12,0,4,PL 22/23
+2023-02-26,Stuart Attwell,Tottenham,Chelsea,10,10,4,4,27,19,0,2,8,4,12,19,8,10,3,2,PL 22/23
+2023-03-01,Michael Oliver,Arsenal,Everton,5,12,5,1,7,12,4,2,5,12,22,11,15,8,5,5,PL 22/23
+2023-03-01,Paul Tierney,Liverpool,Wolves,13,14,5,2,12,21,1,3,3,7,27,22,15,4,6,1,PL 22/23
+2023-03-04,Simon Hooper,Manchester City,Newcastle Utd,8,13,8,4,13,11,0,1,4,8,17,17,11,5,3,2,PL 22/23
+2023-03-04,Chris Kavanagh,Arsenal,Bournemouth,6,8,17,1,17,16,0,0,1,15,11,11,31,4,9,4,PL 22/23
+2023-03-04,Craig Pawson,Aston Villa,Crystal Palace,14,17,2,4,13,22,0,5,8,9,17,16,8,3,1,0,PL 22/23
+2023-03-04,Michael Oliver,Chelsea,Leeds United,11,7,5,7,26,23,2,2,10,12,14,17,13,11,3,2,PL 22/23
+2023-03-04,Stuart Attwell,Brighton,West Ham,6,8,7,3,20,11,0,0,2,12,18,18,19,3,8,2,PL 22/23
+2023-03-04,Tim Robinson,Wolves,Tottenham,11,18,4,8,18,5,3,1,6,4,11,20,8,21,5,6,PL 22/23
+2023-03-04,Robert Jones,Southampton,Leicester City,12,11,3,4,21,22,4,2,14,6,20,28,10,11,4,0,PL 22/23
+2023-03-05,John Brooks,Nott'ham Forest,Everton,11,17,3,3,24,21,0,0,5,3,30,21,10,9,4,2,PL 22/23
+2023-03-05,Andy Madley,Liverpool,Manchester Utd,13,14,4,3,17,15,0,4,7,12,20,21,18,8,8,4,PL 22/23
+2023-03-06,Anthony Taylor,Brentford,Fulham,12,17,2,3,22,12,3,1,3,9,22,21,13,9,5,5,PL 22/23
+2023-03-11,John Brooks,Bournemouth,Liverpool,7,9,3,8,11,22,2,4,8,6,21,36,5,14,2,5,PL 22/23
+2023-03-11,Paul Tierney,Leeds United,Brighton,12,9,4,7,14,24,3,3,8,9,6,16,12,15,4,3,PL 22/23
+2023-03-11,Simon Hooper,Everton,Brentford,11,12,5,8,25,11,3,1,11,4,10,29,13,12,6,3,PL 22/23
+2023-03-11,Andre Marriner,Leicester City,Chelsea,10,11,2,5,15,24,0,4,3,5,19,17,17,12,6,6,PL 22/23
+2023-03-11,Craig Pawson,Tottenham,Nott'ham Forest,13,13,2,10,10,8,1,1,8,3,14,9,14,8,6,4,PL 22/23
+2023-03-11,Robert Jones,Crystal Palace,Manchester City,11,17,2,6,11,14,3,2,10,1,18,21,4,13,0,3,PL 22/23
+2023-03-12,Anthony Taylor,Manchester Utd,Southampton,12,9,7,8,21,15,0,2,7,4,25,19,10,17,4,4,PL 22/23
+2023-03-12,David Coote,Fulham,Arsenal,10,9,4,8,14,20,2,2,6,6,22,12,12,15,2,7,PL 22/23
+2023-03-12,Chris Kavanagh,West Ham,Aston Villa,9,6,12,2,18,12,6,1,5,8,13,16,16,12,4,4,PL 22/23
+2023-03-12,Andy Madley,Newcastle Utd,Wolves,11,10,10,3,13,20,0,0,7,7,25,14,19,7,8,4,PL 22/23
+2023-03-15,Michael Salisbury,Southampton,Brentford,14,10,3,3,16,20,1,1,6,10,22,17,7,11,0,4,PL 22/23
+2023-03-15,Peter Bankes,Brighton,Crystal Palace,13,20,1,4,20,15,2,0,4,9,18,15,11,11,5,3,PL 22/23
+2023-03-17,Paul Tierney,Nott'ham Forest,Newcastle Utd,17,9,3,7,12,15,1,1,10,7,23,15,5,14,3,3,PL 22/23
+2023-03-18,Michael Salisbury,Wolves,Leeds United,15,9,5,4,21,21,2,0,9,9,22,19,23,11,8,4,PL 22/23
+2023-03-18,Darren Bond,Brentford,Leicester City,10,11,8,4,22,12,1,3,5,10,23,19,11,14,2,1,PL 22/23
+2023-03-18,Robert Jones,Aston Villa,Bournemouth,8,13,9,6,16,20,0,2,7,5,18,13,20,10,9,3,PL 22/23
+2023-03-18,Simon Hooper,Southampton,Tottenham,13,8,10,3,13,19,2,1,9,8,17,11,18,17,6,3,PL 22/23
+2023-03-18,Darren England,Chelsea,Everton,8,12,8,2,15,20,2,1,8,6,20,24,19,12,6,3,PL 22/23
+2023-03-19,Stuart Attwell,Arsenal,Crystal Palace,8,10,5,4,15,18,2,2,3,11,14,14,15,9,5,5,PL 22/23
+2023-04-01,Simon Hooper,Manchester City,Liverpool,9,12,7,1,7,12,3,5,2,4,15,5,17,4,8,1,PL 22/23
+2023-04-01,Darren England,Arsenal,Leeds United,11,13,4,3,15,21,5,1,4,5,14,20,12,7,4,5,PL 22/23
+2023-04-01,Chris Kavanagh,Nott'ham Forest,Wolves,14,13,4,3,15,14,2,0,5,7,18,20,17,8,7,1,PL 22/23
+2023-04-01,Michael Oliver,Brighton,Brentford,16,10,14,0,9,16,2,2,1,9,17,6,32,7,13,5,PL 22/23
+2023-04-01,Tim Robinson,Crystal Palace,Leicester City,12,16,10,1,12,24,1,2,1,14,27,11,31,3,9,2,PL 22/23
+2023-04-01,Peter Bankes,Bournemouth,Fulham,15,13,4,3,17,19,1,1,9,8,13,18,12,10,6,2,PL 22/23
+2023-04-01,Andy Madley,Chelsea,Aston Villa,14,16,13,2,18,24,2,0,3,15,20,9,27,5,7,2,PL 22/23
+2023-04-02,Paul Tierney,West Ham,Southampton,10,11,5,3,28,26,1,1,6,8,27,28,12,9,2,3,PL 22/23
+2023-04-02,Stuart Attwell,Newcastle Utd,Manchester Utd,8,12,7,4,22,18,1,0,7,13,26,19,22,6,6,1,PL 22/23
+2023-04-03,David Coote,Everton,Tottenham,10,14,3,3,23,14,1,3,7,10,13,16,15,7,6,0,PL 22/23
+2023-04-04,Robert Jones,Leeds United,Nott'ham Forest,11,13,11,4,15,18,3,3,3,8,21,25,21,13,6,1,PL 22/23
+2023-04-04,Darren Bond,Bournemouth,Brighton,11,5,5,5,18,17,1,0,12,10,17,19,14,16,3,6,PL 22/23
+2023-04-04,Graham Scott,Leicester City,Aston Villa,10,14,4,8,19,7,2,1,7,7,8,19,9,15,4,5,PL 22/23
+2023-04-04,Anthony Taylor,Chelsea,Liverpool,6,17,3,5,24,13,4,3,2,9,17,25,12,7,2,3,PL 22/23
+2023-04-05,Craig Pawson,West Ham,Newcastle Utd,11,12,7,6,13,24,0,0,7,7,14,15,7,15,2,7,PL 22/23
+2023-04-05,John Brooks,Manchester Utd,Brentford,9,13,12,3,15,18,2,1,9,11,12,11,18,6,3,1,PL 22/23
+2023-04-08,Michael Oliver,Manchester Utd,Everton,10,9,10,4,10,30,3,2,5,10,20,17,29,15,11,1,PL 22/23
+2023-04-08,Jarred Gillett,Fulham,West Ham,10,12,11,4,17,17,0,2,7,5,24,16,16,9,3,5,PL 22/23
+2023-04-08,Anthony Taylor,Aston Villa,Nott'ham Forest,7,17,1,8,12,17,1,7,2,14,20,26,8,6,3,2,PL 22/23
+2023-04-08,David Coote,Leicester City,Bournemouth,10,13,6,6,19,8,3,2,8,9,27,24,14,19,4,7,PL 22/23
+2023-04-08,Chris Kavanagh,Brentford,Newcastle Utd,10,15,6,5,16,19,2,2,6,6,19,12,10,10,4,4,PL 22/23
+2023-04-08,Peter Bankes,Wolves,Chelsea,14,10,8,8,22,27,2,1,4,6,16,23,9,13,4,1,PL 22/23
+2023-04-08,Stuart Attwell,Tottenham,Brighton,15,15,3,7,17,18,2,1,8,8,10,14,9,17,3,4,PL 22/23
+2023-04-08,Robert Jones,Southampton,Manchester City,6,10,0,10,11,9,0,2,4,5,10,18,4,12,1,7,PL 22/23
+2023-04-09,Simon Hooper,Leeds United,Crystal Palace,11,8,2,4,34,22,2,2,3,4,24,28,11,16,7,7,PL 22/23
+2023-04-09,Paul Tierney,Liverpool,Arsenal,11,11,5,4,22,21,2,2,7,11,13,12,20,9,6,5,PL 22/23
+2023-04-15,John Brooks,Aston Villa,Newcastle Utd,13,15,7,2,18,18,1,4,6,6,23,18,16,8,6,2,PL 22/23
+2023-04-15,Robert Jones,Chelsea,Brighton,11,11,2,8,18,24,1,1,10,5,14,17,8,26,2,10,PL 22/23
+2023-04-15,Michael Oliver,Southampton,Crystal Palace,6,13,6,2,15,22,3,1,8,5,17,14,11,10,4,2,PL 22/23
+2023-04-15,Paul Tierney,Wolves,Brentford,12,8,5,2,21,23,0,1,5,2,16,26,11,10,9,3,PL 22/23
+2023-04-15,Andy Madley,Tottenham,Bournemouth,8,9,8,1,17,17,1,1,3,15,19,11,24,9,8,6,PL 22/23
+2023-04-15,Anthony Taylor,Everton,Fulham,10,6,4,7,14,17,1,0,8,8,17,22,15,21,7,7,PL 22/23
+2023-04-15,Darren England,Manchester City,Leicester City,8,8,6,2,11,10,0,3,5,6,18,15,11,11,3,4,PL 22/23
+2023-04-16,David Coote,West Ham,Arsenal,11,8,7,2,17,13,4,1,5,9,26,20,15,10,2,5,PL 22/23
+2023-04-16,Simon Hooper,Nott'ham Forest,Manchester Utd,9,9,4,9,20,12,1,3,11,8,19,25,6,22,0,7,PL 22/23
+2023-04-17,Craig Pawson,Leeds United,Liverpool,6,12,4,2,13,21,1,2,6,6,16,22,13,13,3,7,PL 22/23
+2023-04-21,Simon Hooper,Arsenal,Southampton,10,14,7,2,17,22,1,2,3,18,25,11,25,8,5,6,PL 22/23
+2023-04-22,Peter Bankes,Fulham,Leeds United,10,15,8,6,19,24,5,2,5,3,23,12,12,10,5,2,PL 22/23
+2023-04-22,John Brooks,Crystal Palace,Everton,12,14,8,1,15,14,1,3,7,8,27,25,12,10,2,5,PL 22/23
+2023-04-22,Michael Salisbury,Brentford,Aston Villa,12,8,8,4,16,9,6,3,9,9,19,8,16,14,5,2,PL 22/23
+2023-04-22,Michael Oliver,Liverpool,Nott'ham Forest,9,12,9,3,14,15,2,3,7,10,28,18,18,11,5,5,PL 22/23
+2023-04-22,Andy Madley,Leicester City,Wolves,17,16,1,7,22,12,1,3,13,5,18,22,14,16,6,3,PL 22/23
+2023-04-23,Anthony Taylor,Bournemouth,West Ham,7,8,8,5,11,17,0,3,4,13,24,13,17,18,5,10,PL 22/23
+2023-04-23,David Coote,Newcastle Utd,Tottenham,7,13,9,3,13,17,2,0,8,5,12,22,25,11,8,3,PL 22/23
+2023-04-25,Robert Jones,Wolves,Crystal Palace,13,14,6,11,21,11,2,1,5,5,12,30,8,14,2,4,PL 22/23
+2023-04-25,Thomas Bramall,Aston Villa,Fulham,6,18,8,2,11,21,0,5,8,4,15,18,14,1,3,0,PL 22/23
+2023-04-25,Paul Tierney,Leeds United,Leicester City,14,15,3,6,22,21,4,6,5,8,23,29,13,15,3,3,PL 22/23
+2023-04-26,Jarred Gillett,Nott'ham Forest,Brighton,7,8,2,7,18,14,1,2,10,9,17,18,10,17,3,7,PL 22/23
+2023-04-26,Andy Madley,Chelsea,Brentford,5,13,5,2,12,13,0,2,3,11,21,28,15,7,4,1,PL 22/23
+2023-04-26,Chris Kavanagh,West Ham,Liverpool,6,8,3,6,13,20,1,1,7,9,18,15,7,20,2,4,PL 22/23
+2023-04-26,Michael Oliver,Manchester City,Arsenal,13,13,1,3,11,10,0,1,9,6,13,13,14,8,9,2,PL 22/23
+2023-04-27,Andre Marriner,Everton,Newcastle Utd,8,6,2,14,18,14,3,1,8,11,17,29,13,15,5,7,PL 22/23
+2023-04-27,Darren England,Southampton,Bournemouth,9,11,6,4,19,21,4,2,9,6,25,19,11,16,2,2,PL 22/23
+2023-04-27,Anthony Taylor,Tottenham,Manchester Utd,8,7,6,8,19,16,2,3,6,10,12,17,18,17,7,7,PL 22/23
+2023-04-29,Craig Pawson,Crystal Palace,West Ham,9,17,8,5,21,23,1,1,3,10,18,29,15,8,5,4,PL 22/23
+2023-04-29,David Coote,Brighton,Wolves,14,11,2,5,15,16,2,0,6,9,10,14,22,10,8,2,PL 22/23
+2023-04-29,Peter Bankes,Brentford,Nott'ham Forest,6,13,6,0,9,21,1,1,4,7,24,24,14,5,8,3,PL 22/23
+2023-04-30,Jarred Gillett,Manchester Utd,Aston Villa,16,7,1,4,14,15,7,3,4,7,28,21,14,7,6,1,PL 22/23
+2023-04-30,Chris Kavanagh,Bournemouth,Leeds United,12,14,2,5,24,19,2,1,9,3,21,28,12,15,7,6,PL 22/23
+2023-04-30,Anthony Taylor,Newcastle Utd,Southampton,7,10,11,2,17,23,1,2,2,15,23,21,22,4,5,3,PL 22/23
+2023-04-30,Simon Hooper,Fulham,Manchester City,9,10,2,5,22,14,3,1,2,3,15,23,4,11,1,8,PL 22/23
+2023-04-30,Paul Tierney,Liverpool,Tottenham,12,6,4,2,16,24,0,5,4,7,21,16,11,10,3,6,PL 22/23
+2023-05-01,Michael Oliver,Leicester City,Everton,10,12,2,9,19,15,6,3,11,5,19,31,14,22,4,7,PL 22/23
+2023-05-02,Robert Jones,Arsenal,Chelsea,10,10,7,2,12,15,1,0,5,7,10,10,16,7,9,4,PL 22/23
+2023-05-03,Stuart Attwell,Liverpool,Fulham,10,8,7,5,14,15,3,2,6,11,21,14,14,9,2,3,PL 22/23
+2023-05-03,John Brooks,Manchester City,West Ham,8,8,6,3,16,12,1,0,2,12,16,12,16,6,7,2,PL 22/23
+2023-05-04,Andre Marriner,Brighton,Manchester Utd,10,14,8,6,15,20,0,2,7,14,8,12,21,16,5,5,PL 22/23
+2023-05-06,Darren England,Tottenham,Crystal Palace,15,14,8,4,13,15,1,0,8,3,12,27,8,7,3,2,PL 22/23
+2023-05-06,Stuart Attwell,Wolves,Aston Villa,20,9,5,6,13,10,3,2,9,3,14,19,6,16,2,3,PL 22/23
+2023-05-06,John Brooks,Bournemouth,Chelsea,9,11,7,7,16,12,1,0,10,6,24,20,10,11,4,5,PL 22/23
+2023-05-06,Andy Madley,Manchester City,Leeds United,3,16,10,1,7,10,4,3,4,15,12,10,17,4,6,2,PL 22/23
+2023-05-06,Anthony Taylor,Liverpool,Brentford,19,10,7,3,9,11,1,2,10,6,19,14,15,5,5,1,PL 22/23
+2023-05-07,Chris Kavanagh,Newcastle Utd,Arsenal,16,12,9,4,18,23,0,1,6,6,26,17,12,10,5,6,PL 22/23
+2023-05-07,Peter Bankes,West Ham,Manchester Utd,4,9,5,7,17,14,1,1,11,10,10,17,15,19,4,4,PL 22/23
+2023-05-08,Robert Jones,Fulham,Leicester City,13,15,2,7,22,14,1,4,8,7,20,17,17,16,7,7,PL 22/23
+2023-05-08,Simon Hooper,Brighton,Everton,11,13,15,1,11,19,1,1,2,12,24,6,23,10,5,5,PL 22/23
+2023-05-08,Michael Oliver,Nott'ham Forest,Southampton,16,10,2,11,20,6,3,1,12,5,14,19,8,18,3,4,PL 22/23
+2023-05-13,Simon Hooper,Leeds United,Newcastle Utd,16,14,2,6,23,21,0,2,13,6,14,23,8,16,3,3,PL 22/23
+2023-05-13,Peter Bankes,Aston Villa,Tottenham,9,14,8,3,11,16,2,9,4,8,8,14,8,4,4,1,PL 22/23
+2023-05-13,Paul Tierney,Chelsea,Nott'ham Forest,13,15,2,5,14,28,1,2,7,5,27,18,14,11,6,2,PL 22/23
+2023-05-13,Michael Salisbury,Crystal Palace,Bournemouth,5,12,11,2,22,20,2,1,3,12,16,18,17,5,5,0,PL 22/23
+2023-05-13,Thomas Bramall,Southampton,Fulham,17,12,1,8,16,10,4,1,4,4,19,18,5,9,1,3,PL 22/23
+2023-05-13,John Brooks,Manchester Utd,Wolves,9,9,11,7,13,8,0,1,7,13,19,21,27,5,9,0,PL 22/23
+2023-05-14,Anthony Taylor,Everton,Manchester City,12,4,8,6,16,7,1,0,9,5,13,13,7,9,2,4,PL 22/23
+2023-05-14,Michael Oliver,Brentford,West Ham,5,5,7,5,20,11,3,3,4,12,21,18,24,4,9,4,PL 22/23
+2023-05-14,Andy Madley,Arsenal,Brighton,13,17,5,2,20,15,1,4,5,9,11,15,14,12,2,6,PL 22/23
+2023-05-15,Craig Pawson,Leicester City,Liverpool,11,17,4,4,36,18,3,4,5,2,26,26,4,16,4,5,PL 22/23
+2023-05-18,Robert Jones,Newcastle Utd,Brighton,17,16,6,1,11,14,1,2,4,10,25,20,22,8,8,2,PL 22/23
+2023-05-20,Jarred Gillett,Tottenham,Brentford,11,9,8,2,12,11,1,1,8,8,23,19,22,11,7,4,PL 22/23
+2023-05-20,John Brooks,Liverpool,Aston Villa,16,13,9,3,18,29,4,1,3,8,22,18,10,5,5,3,PL 22/23
+2023-05-20,Joshua Smith,Fulham,Crystal Palace,13,12,7,4,16,12,2,2,7,13,20,21,10,11,3,5,PL 22/23
+2023-05-20,Chris Kavanagh,Bournemouth,Manchester Utd,6,7,3,6,12,26,0,2,9,5,11,24,10,20,4,5,PL 22/23
+2023-05-20,David Coote,Wolves,Everton,18,10,1,7,12,19,1,0,10,8,10,23,13,19,5,4,PL 22/23
+2023-05-20,Anthony Taylor,Nott'ham Forest,Arsenal,11,12,3,6,18,8,1,1,12,2,14,11,6,11,2,3,PL 22/23
+2023-05-21,Peter Bankes,West Ham,Leeds United,6,11,9,5,11,23,1,1,8,3,24,17,19,12,9,3,PL 22/23
+2023-05-21,Paul Tierney,Brighton,Southampton,8,9,4,3,13,16,1,1,3,11,17,15,26,5,8,1,PL 22/23
+2023-05-21,Michael Oliver,Manchester City,Chelsea,12,9,5,2,8,17,2,2,5,8,16,10,15,13,2,6,PL 22/23
+2023-05-22,Andre Marriner,Newcastle Utd,Leicester City,9,5,12,1,6,17,1,0,1,18,19,11,23,1,3,1,PL 22/23
+2023-05-24,Simon Hooper,Brighton,Manchester City,16,11,5,1,12,12,2,0,7,5,6,11,20,13,7,4,PL 22/23
+2023-05-25,Stuart Attwell,Manchester Utd,Chelsea,12,6,3,4,19,21,0,0,11,4,18,10,17,14,8,5,PL 22/23
+2023-05-28,Thomas Bramall,Crystal Palace,Nott'ham Forest,9,13,5,4,15,19,2,2,4,10,21,12,15,7,3,4,PL 22/23
+2023-05-28,Jarred Gillett,Chelsea,Newcastle Utd,9,11,10,3,21,14,2,1,5,9,15,16,22,13,4,4,PL 22/23
+2023-05-28,Robert Jones,Manchester Utd,Fulham,14,10,5,4,19,15,1,1,9,9,8,13,21,9,8,2,PL 22/23
+2023-05-28,Andre Marriner,Arsenal,Wolves,8,11,8,4,17,9,1,0,5,5,11,14,14,6,8,0,PL 22/23
+2023-05-28,Darren England,Southampton,Liverpool,4,10,2,9,21,20,0,0,10,5,16,24,15,30,10,8,PL 22/23
+2023-05-28,Stuart Attwell,Everton,Bournemouth,11,12,9,3,18,12,0,1,6,10,22,20,13,7,6,1,PL 22/23
+2023-05-28,Simon Hooper,Leicester City,West Ham,8,10,3,5,11,17,2,3,9,9,17,11,13,16,4,3,PL 22/23
+2023-05-28,David Coote,Aston Villa,Brighton,15,16,3,3,14,13,0,6,8,12,19,12,12,8,5,4,PL 22/23
+2023-05-28,Anthony Taylor,Leeds United,Tottenham,8,5,12,3,22,26,1,1,1,12,24,19,19,11,2,7,PL 22/23
+2023-05-28,John Brooks,Brentford,Manchester City,12,8,3,4,17,14,3,0,5,10,10,16,11,17,4,2,PL 22/23

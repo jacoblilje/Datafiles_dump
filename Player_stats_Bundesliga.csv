@@ -1,0 +1,3 @@
+_date,day,comp,round,venue,result,team,opponent,start,pos,mins,goals,assists,pk,pkatt,shots,sot,crdy,crdr,touches,tackles,_int,blocks,xg,npxg,xag,sca,gca,cmp,att,cmp_pct,prgp,carries,prgc,player_name
+2024-05-11,Sat,Bundesliga,Matchweek 33,Away,L 2–3,Union Berlin,Köln,Y,AM,53,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,0,0,10,18,55.6,2,19,3,Brenden Aaronson
+2024-05-18,Sat,Bundesliga,Matchweek 34,Home,W 2–1,Union Berlin,Freiburg,Y,"FW,AM",79,0,1,0,0,2,0,0,0,42,2,0,1,0.1,0.1,0.2,8,2,27,29,93.1,8,35,5,Brenden Aaronson
